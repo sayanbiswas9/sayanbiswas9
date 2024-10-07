@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/sayanbiswas9/rawdata/main/coding_banner.gif)]()
-<h1 align="center">Hi 👋, I'm Sayan</h1>
+<h1 align="center">Sayan Biswas</h1>
 <h3 align="center">A passionate python developer from West Bengal, India</h3>
 <img align="right" alt="Coding" width=400 src="https://raw.githubusercontent.com/sayanbiswas9/rawdata/main/Mappr_Front_End_Developer_md.gif">
 
